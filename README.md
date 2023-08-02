@@ -24,7 +24,13 @@ From ACF(at y=0), get Q
 
 CSV files for select bitcoin exchanges from Sept 2015 to December February 2023, with minute-to-minute updates of OHLC (Open, High, Low, Close), Date, Volume in BTC and indicated currency, and weighted bitcoin price. Timestamps are in Unix time. Timestamps without any trades or activity have their data fields filled with NaNs. If a timestamp is missing, or if there are jumps, this may be because the exchange (or its API) was down, the exchange (or its API) did not exist, or some other unforeseen technical error in data reporting or gathering.
 ### Predictions:
-<img src = "https://github.com/DivyanshSuryawanshi02/Bitcoin-Price-Predictions-using-ARIMA/Output/ActualvsPredicted.png">
+![ActualvsPredicted](https://github.com/DivyanshSuryawanshi02/Bitcoin-Price-Predictions-using-ARIMA/assets/134506524/2b3e6ae7-800f-4bbe-b662-3ad4a4ce8df9)
+### Lessons Learned
+`Time Series`
+`ARIMA model`
+`Differentiation and Stationarity`
+
+
 
 
 
